@@ -1,0 +1,29 @@
+.uploadheader {
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  z-index: 9;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  width: 100%;
+}
+.uploadIcon {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  height: min-content;
+  border: 2px solid rgb(129, 129, 129);
+  border-radius: 8px;
+}
+.modal {
+  display: flex !important;
+  flex-direction: column !important;
+  padding: 10px;
+}
+.modal1 {
+  display: flex !important;
+  flex-direction: column !important;
+  padding: 10px;
+  background-color: rgb(231, 242, 252) !important;
+}

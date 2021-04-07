@@ -1,0 +1,58 @@
+
+*{
+  margin: 0;
+  
+}
+
+.App{
+  background-color: #fafafa;
+
+
+}
+.app__header{
+  object-fit: contain;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+
+}
+
+.app__buttonOut{
+  
+  display: flex !important;
+  width: fit-content;
+  margin-left: auto !important;
+  margin-right: 10px !important;
+  margin-top: -35px !important;
+  align-content: center ;
+  background-color: rgb(86, 86, 255) !important;
+}
+.app__signup{
+  display: flex !important;
+  flex-direction: column !important;
+  
+}
+.app__buttonUp{
+  display: flex !important;
+  width: fit-content;
+ margin-left: 200px !important;
+margin-top: -29px !important;
+  align-content: center ;
+  font-size: 10px !important;
+  background-color: rgb(86, 86, 255) !important;
+}
+.app__buttonIn{
+   
+  display: flex !important;
+  width: fit-content !important;
+  font-size: 10px !important;
+ 
+  margin-left: 120px !important;
+  margin-top: -40px !important;
+  align-content: center ;
+  background-color: rgb(86, 86, 255) !important;
+}
+
+.app__headerImage{
+  padding-bottom: 10px;
+}
